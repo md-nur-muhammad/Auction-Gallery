@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic 1950s Leica M3 film camera highly sought after by collectors.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 14,
+    "image": "https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "A vintage Gibson SG guitar with exceptional tone and original parts.",
+    "currentBidPrice": 3820,
+    "timeLeft": "3 Days",
+    "bidsCount": 19,
+    "image": "https://images.pexels.com/photos/164745/pexels-photo-164745.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The very first Macintosh computer, fully functional and preserved.",
+    "currentBidPrice": 5400,
+    "timeLeft": "1 Day",
+    "bidsCount": 22,
+    "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A luxury Rolex Submariner watch with stainless steel construction.",
+    "currentBidPrice": 9200,
+    "timeLeft": "5 Days",
+    "bidsCount": 30,
+    "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Banksy Original Screen Print",
+    "description": "A rare authenticated Banksy print from early 2000s street art collections.",
+    "currentBidPrice": 15000,
+    "timeLeft": "12 Hours",
+    "bidsCount": 47,
+    "image": "https://images.pexels.com/photos/220889/pexels-photo-220889.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "An iconic lounge chair with premium leather and walnut veneer.",
+    "currentBidPrice": 6800,
+    "timeLeft": "4 Days",
+    "bidsCount": 18,
+    "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "First Edition 'The Great Gatsby'",
+    "description": "A rare first-edition copy of F. Scott Fitzgerald’s masterpiece.",
+    "currentBidPrice": 7200,
+    "timeLeft": "3 Days",
+    "bidsCount": 25,
+    "image": "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Vintage Omega Speedmaster",
+    "description": "A collector’s edition Omega Speedmaster with original 1970s dial.",
+    "currentBidPrice": 4800,
+    "timeLeft": "9 Hours",
+    "bidsCount": 33,
+    "image": "https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Antique Persian Rug (Hand-Woven)",
+    "description": "A beautifully hand-woven Persian rug from the early 1900s.",
+    "currentBidPrice": 3300,
+    "timeLeft": "6 Days",
+    "bidsCount": 12,
+    "image": "https://images.pexels.com/photos/3965552/pexels-photo-3965552.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Vintage Film Projector (1958)",
+    "description": "A restored 1958 film projector in perfect working condition.",
+    "currentBidPrice": 2400,
+    "timeLeft": "8 Days",
+    "bidsCount": 9,
+    "image": "https://images.pexels.com/photos/167092/pexels-photo-167092.jpeg"
+  }
+]

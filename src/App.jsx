@@ -1,10 +1,13 @@
-import React from 'react'
+import Hero from "./components/Banner/Banner";
+import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar/Navbar";
 
 export default function App() {
   return (
     <div>
-      <h1 className="text-red-900">Hello World</h1>
-      <button className="btn btn-info">Info</button>
+      <Navbar></Navbar>
+      <Hero></Hero>
+      <Footer></Footer>
     </div>
   )
 }
